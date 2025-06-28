@@ -66,7 +66,7 @@ The database includes:
 
 ## 🎥 Demo Video
 
-[link here]
+https://drive.google.com/file/d/1JEqZgPGP70akcxM9brIgVJ04uK9BRrMM/view?usp=sharing
 
 ---
 
